@@ -3,6 +3,7 @@
 # Database diagram
 ![db_image.png](public/bd.png)
 ![database.png](public%2Fdatabase.png)
+![image](https://github.com/huyencute11/WWW_Week05_restAPI_spring/assets/88650282/3696e041-79e6-43af-b327-9b5809e3f3a0)
 
 # Rule
 It consists of two parts, allowing the company to post job vacancies with desired skills, and when candidates enter their recruitment information, they will be suggested job positions that match their skills.
